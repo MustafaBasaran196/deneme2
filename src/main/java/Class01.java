@@ -9,6 +9,9 @@ public class Class01 {
         System.out.println(x+y+z);
 //V3
         System.out.println("V3 kodlari...");
+        //V4
+        System.out.println("V4 calismalari");
+
 
 
 
