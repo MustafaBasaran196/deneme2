@@ -12,7 +12,7 @@ public class Class01 {
         //V4
         System.out.println("V4 calismalari");
         //V5 kodlarim
-
+// V6 icin yeni
 
 
 
