@@ -14,7 +14,8 @@ public class Class01 {
         //V5 kodlarim
 // V6 icin yeni
 
-
+        System.out.println("main branch degisiklik 1.satir");
+        System.out.println("main branch degisiklik 2.satir");
 
 
 
