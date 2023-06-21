@@ -15,6 +15,9 @@ public class Class01 {
 // V6 icin yeni
 
 
+        System.out.println("class 1 de degisiklik yaptik");
+
+
 
 
 
